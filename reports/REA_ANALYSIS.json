@@ -1,47 +1,5 @@
 {
-  "engine": "REA_Reverse_Engineer_Anything",
-  "status": "STRUCTURE_RECONSTRUCTED",
-  "analyzed_files": 13,
-  "manifest": {
-    "5 days summar school iiit.jfif": {
-      "bytes": 124173
-    },
-    "developer certificate.jfif": {
-      "bytes": 129937
-    },
-    "diploma1.jfif": {
-      "bytes": 125979
-    },
-    "diploma2.jfif": {
-      "bytes": 124517
-    },
-    "ibm certificate.jpg": {
-      "bytes": 138732
-    },
-    "iiit 48 certificate.jfif": {
-      "bytes": 159370
-    },
-    "martin luther.jpg": {
-      "bytes": 145221
-    },
-    "qniverse participating certificate.jfif": {
-      "bytes": 153803
-    },
-    "Udemy quantum developer.pdf": {
-      "bytes": 221855
-    },
-    "scripts\\rea_inspector.py": {
-      "bytes": 1485
-    },
-    "scripts\\rsi_engine.py": {
-      "bytes": 2039
-    },
-    "tests\\reality_check_harness.py": {
-      "bytes": 1250
-    },
-    ".github\\workflows\\qmoosa-rsi-rea-sync.yml": {
-      "bytes": 531
-    }
-  },
-  "timestamp": 1794028171
+  "engine": "REA_Inspector",
+  "timestamp": 1794247431,
+  "total_files": 15
 }
